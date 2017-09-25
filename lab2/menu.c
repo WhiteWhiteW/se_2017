@@ -82,6 +82,9 @@ int main()
         {
             quit();
             break;
+        }else
+        {
+            printf("This is a wrong commond.\nPlease enter again.\n");
         }
     }
     return 0;
